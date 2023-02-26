@@ -1,0 +1,30 @@
+ 
+p{
+	border:1px solid black;
+	width:60px;
+	height:25px;
+	float:right;
+	 margin:0px;
+
+ 	}
+.row{
+ 	border:2px solid black;
+	background:green;	
+	margin:10px;
+	overflow:auto;
+   	}
+section{	
+		clear:both;
+		}
+h1{
+	text-align:center;
+}
+.para1{
+	background:red;
+}
+.para2{
+	background:yellow;
+}
+.para3{
+	background:orange;
+}
